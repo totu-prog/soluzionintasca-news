@@ -15,7 +15,8 @@ img{max-width:100%;display:block}
 .site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
 .site-header .container{display:flex;align-items:center;justify-content:space-between;height:68px}
 .brand{display:flex;align-items:center;gap:10px;font-family:'Fraunces',serif;font-weight:700;font-size:1.25rem;color:var(--blue)}
-.brand .dot{width:12px;height:12px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 4px var(--gold-light)}
+.brand .eagle{width:30px;height:30px;color:var(--gold);flex:0 0 auto}
+.brand span{color:var(--gold)}
 .nav-back{font-weight:600;font-size:.92rem;color:var(--blue);padding:9px 16px;border:1px solid var(--border);border-radius:999px;transition:.2s}
 .nav-back:hover{background:var(--blue);color:#fff;border-color:var(--blue)}
 /* hero */
