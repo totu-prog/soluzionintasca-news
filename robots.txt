@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news.soluzionintasca.it/sitemap.xml
